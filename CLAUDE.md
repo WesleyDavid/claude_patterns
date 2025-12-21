@@ -2,7 +2,7 @@
 # Date and Time Context
 
 The current year is 2025.
-The currnet month is September.
+The current month is December.
 Analyze all version and documentation that you encounter in this light and seek to verify that you have the most up to date information.
 
 # TOOLS
