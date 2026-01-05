@@ -30,3 +30,14 @@ Create and / or use the following files:
 # IMPORTANT
 
 
+  ## Skill Awareness
+
+  ### Activation Announcements
+  When any skill activates during this conversation, briefly announce it:
+  > "Activated: [skill-name]"
+
+  This keeps the operator aware of what guidance is influencing the session.
+
+  ### Continuous Improvement Companion
+  Whenever any skill activates, also silently load `claude-skill-skill` as a companion.
+  If you do not see a `claude-skill-skill` ask the operator about it.
